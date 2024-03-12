@@ -1,10 +1,12 @@
 const msgerForm = get(".msger-inputarea");
 const msgerInput = get(".msger-input");
 const msgerChat = get(".msger-chat");
-const BOT_IMG = "bot.png";
-const PERSON_IMG = "user.png";
+const BOT_IMG = "https://i.postimg.cc/yWw4jPtX/bot.png";
+const PERSON_IMG = "https://i.postimg.cc/pmvNbd2m/user.png";
 const BOT_NAME = "BOT";
 const PERSON_NAME = "Consumer";
+
+
 
 
 
