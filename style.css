@@ -25,6 +25,10 @@ html {
   position: relative;
 }
  */
+section {
+font-family: "Baloo 2", cursive;
+position: relative;
+}
 .logo_container {
   position : absolute;
   top: 0;
