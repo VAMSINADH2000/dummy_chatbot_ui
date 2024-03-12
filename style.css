@@ -15,7 +15,7 @@ html {
   padding: 0;
   box-sizing: inherit;
 }
-/* body {
+body {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,7 +24,7 @@ html {
   font-family: "Baloo 2", cursive;
   position: relative;
 }
- */
+
 section {
 font-family: "Baloo 2", cursive;
 position: relative;
