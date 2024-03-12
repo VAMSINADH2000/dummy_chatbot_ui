@@ -15,7 +15,7 @@ html {
   padding: 0;
   box-sizing: inherit;
 }
-body {
+/* body {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,7 +24,7 @@ body {
   font-family: "Baloo 2", cursive;
   position: relative;
 }
-
+ */
 .logo_container {
   position : absolute;
   top: 0;
